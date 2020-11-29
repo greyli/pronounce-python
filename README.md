@@ -4,7 +4,7 @@ Python 技术名词发音指南 @ PyCon China 2020 11/29 13:40
 
 ![cover](images/cover.png)
 
-- Slides: https://greyli.com/pronounce-python (not upload yet)
+- Slides: https://greyli.com/pronounce-python
 - Video: --
 - Feedback: https://github.com/greyli/pronounce-python/issues
 
