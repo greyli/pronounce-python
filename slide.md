@@ -616,7 +616,7 @@ demo: [Google](https://www.google.com/search?q=how+to+pronounce+python) | [YouTu
  ---
 
 # Credit & Copyright
-
+- 幻灯片使用 [Marpit](https://marpit.marp.app/) 制作
 - 大部分图片来自[维基百科](https://www.wikipedia.org/)
 - 三幅~~漫画~~涂鸦和广告页的书封面由李辉使用 Windows 画图创作
 - 大部分音频示例来自 [Forvo](https://forvo.com/)，少部分来自 [HowToPronounce](http://www.howtopronounce.cc/) 和 [Google Translate](https://translate.google.com/)
